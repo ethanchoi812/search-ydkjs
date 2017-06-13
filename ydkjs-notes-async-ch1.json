@@ -1,0 +1,56 @@
+[
+	{
+		"title": "You Dont Know JS: Async & Performance",
+		"url": "https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/ch1.md#you-dont-know-js-async--performance"
+},
+
+{
+	"title": "Chapter 1: Asynchrony: Now & Later",
+"url": "https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/ch1.md#chapter-1-asynchrony-now--later"
+},
+
+{
+	"title": "A Program in Chunks",
+	"url": "https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/ch1.md#a-program-in-chunks"
+},
+{
+	"title": "Async Console",
+	"url": "https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/ch1.md#async-console"
+},
+{
+	"title": "Event Loop",
+	"url": "https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/ch1.md#event-loop"
+},
+{
+	"title": "Parallel Threading",
+	"url": "https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/ch1.md#parallel-threading"
+},
+{
+	"title": "Run-to-Completion",
+	"url": "https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/ch1.md#run-to-completion"
+},
+{
+	"title": "Concurrency",
+	"url": "https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/ch1.md#concurrency"
+},
+{
+	"title": "Noninteracting",
+	"url": "https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/ch1.md#noninteracting"
+},
+{
+	"title": "Interaction",
+	"url": "https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/ch1.md#interaction"
+},
+{
+	"title": "Cooperation",
+	"url": "https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/ch1.md#cooperation"
+},
+{
+	"title": "Jobs",
+	"url": "https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/ch1.md#jobs"
+},
+{
+	"title": "Statement Ordering",
+	"url": "https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/ch1.md#statement-ordering"
+	}
+]
